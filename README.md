@@ -9,13 +9,14 @@ mohityadav1234/mohityadav1234 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
+
 ## 💻Tools and Technology Used <br>
 
 
 <!-- ## 💻Tech Stack -->
 
-- 💻 &nbsp; ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=007396)
-      &nbsp; ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C++logoColor=007396) 
+- 💻 &nbsp; ![Java](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=007396)
+       
 - 🌐 &nbsp; ![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
       &nbsp;![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 - ⚙️ &nbsp; ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
